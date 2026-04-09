@@ -63,3 +63,4 @@ posicion = cadena.index('Hola')
 
 nueva_cadena = cadena.replace('Hola', 'adiós')
 print(nueva_cadena)
+
