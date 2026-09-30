@@ -16,3 +16,4 @@ realizada como parte del curso de desarrollo.
 - APIs, verbos HTTP y Postman
 - MongoDB (NoSQL)
 
+
